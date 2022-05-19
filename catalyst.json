@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "address_lookup_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

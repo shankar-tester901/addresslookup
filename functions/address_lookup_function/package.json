@@ -1,0 +1,12 @@
+{
+	"name": "address_lookup_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"body-parser": "^1.19.2",
+		"express": "^4.17.3",
+		"node-postcodes.io": "^1.0.3",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
